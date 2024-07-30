@@ -176,7 +176,7 @@ Here are 100 images from the validation dataset with their predictions:
 
 The trained model is saved as `Flower_Type.keras` and can be downloaded from:
 
-[Download Flower_Type.keras](https://drive.google.com/drive/folders/1l1cikFWNjV_LdurGFtYmf199IiW6JkBE?usp=sharing)
+[Download Flower_Type.keras](https://drive.google.com/file/d/1NgEqEIhIuEynceQyjK-OI18VTWQZsjTr/view?usp=sharing)
 
 ## License
 
