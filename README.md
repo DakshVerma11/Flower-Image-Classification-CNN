@@ -151,13 +151,13 @@ _________________________________________________________________
 The trained model achieved an accuracy of **81.90%** on the validation dataset.
 
 
-##Visualizing results of the training
+## Visualizing results of the training
 
-###Custom CNN
+### Custom CNN
 ![image](https://github.com/user-attachments/assets/26a0ce05-8238-4766-bbaa-b84b6bc3bc63)
 
 
-###Inception V3
+### Inception V3
 
 ![image](https://github.com/user-attachments/assets/dd04ea56-0873-4675-a3bc-f3fc87e87dfc)
 
