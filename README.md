@@ -148,7 +148,7 @@ _________________________________________________________________
 
 ## Results
 
-The trained model achieved an accuracy of **81.90%** on the validation dataset.
+The trained model achieved an accuracy of **81.90%** on the validation dataset using a vustom cnn and ~ 91% using pretrained models like MobileNet V2 and Inception V3.
 
 
 ## Visualizing results of the training
@@ -156,6 +156,9 @@ The trained model achieved an accuracy of **81.90%** on the validation dataset.
 ### Custom CNN
 ![image](https://github.com/user-attachments/assets/26a0ce05-8238-4766-bbaa-b84b6bc3bc63)
 
+### MobileNet V2
+
+![image](https://github.com/user-attachments/assets/7a1642cb-9dcd-4256-a078-892c40a0ba82)
 
 ### Inception V3
 
@@ -166,8 +169,12 @@ The trained model achieved an accuracy of **81.90%** on the validation dataset.
 
 Here are 100 images from the validation dataset with their predictions:
 
+### Custom CNN
 ![image](https://github.com/user-attachments/assets/d10aec98-e0ae-4609-9f06-d9fd951e35ac)
 
+### MobileNet V2
+
+![image](https://github.com/user-attachments/assets/d6c6b1c1-0e96-48cb-96b2-8f2f2104d90f)
 
 
 
