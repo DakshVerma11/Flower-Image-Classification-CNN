@@ -1,6 +1,6 @@
 # Flower Image Classification
 
-This project aims to classify images of 5 different varieties of flowers using a convolutional neural network (CNN) built with TensorFlow and Keras. The dataset used is the "Cats vs. Dogs" dataset, which is available through TensorFlow's dataset repository.
+This project aims to classify images of 5 different varieties of flowers using a convolutional neural network (CNN) built with TensorFlow and Keras. The dataset used is available through TensorFlow's dataset repository.
 
 ## Dataset
 
